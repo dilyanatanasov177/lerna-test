@@ -1,6 +1,7 @@
 {
   "packages": [
-    "infrastructure/"
+    "infrastructure/",
+    "infrastructure/stack"
   ],
   "version": "independent",
   "npmClient": "npm"

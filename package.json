@@ -1,0 +1,22 @@
+{
+  "name": "test-for-lerna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilyanatanasov177/lerna-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dilyanatanasov177/lerna-test/issues"
+  },
+  "homepage": "https://github.com/dilyanatanasov177/lerna-test#readme",
+  "dependencies": {
+    "lerna": "^3.22.1"
+  }
+}

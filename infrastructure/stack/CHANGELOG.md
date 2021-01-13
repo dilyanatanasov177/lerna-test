@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/dilyanatanasov177/lerna-test/compare/stack@1.1.0...stack@1.2.0) (2021-01-13)
+
+
+### Features
+
+* **content:** Ala bala [245-DC](https://github.com/lerna/lerna/issues/387) ([2c50f05](https://github.com/dilyanatanasov177/lerna-test/commit/2c50f05727ab2a74fc98f75180cf694239856a2e))
+
+
+
+
+
 # 1.1.0 (2021-01-13)
 
 

@@ -3,4 +3,5 @@ class Test {
     private newTest = ""
     private das = ""
     private das2 = ""
+    private das3 = ""
 }

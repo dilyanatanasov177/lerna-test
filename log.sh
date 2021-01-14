@@ -3,6 +3,6 @@
 # exit when any command fails
 set -e
 
-lerna version minor --yes --conventional-commits
+lerna version --amend --yes
 
 echo "Changelog updated"

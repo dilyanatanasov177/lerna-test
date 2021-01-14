@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.9](https://github.com/dilyanatanasov177/lerna-test/compare/test@1.1.5...test@1.1.9) (2021-01-14)
+
+
+### Reverts
+
+* **test:** dasa ([999785a](https://github.com/dilyanatanasov177/lerna-test/commit/999785ae365db1a14a758ed7d211ffa0704e85c2))
+* **test:** dasa ([894629c](https://github.com/dilyanatanasov177/lerna-test/commit/894629c82bca7150ecba1d793218b6f5853a8f1c))
+
+
+
+
+
 ## [1.1.8](https://github.com/dilyanatanasov177/lerna-test/compare/test@1.1.5...test@1.1.8) (2021-01-14)
 
 

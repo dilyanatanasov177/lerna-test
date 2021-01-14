@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.9.0](https://github.com/dilyanatanasov177/lerna-test/compare/infrastructure@1.6.0...infrastructure@1.9.0) (2021-01-14)
+
+
+### Bug Fixes
+
+* **dsa:** dsadsa ([410ac3c](https://github.com/dilyanatanasov177/lerna-test/commit/410ac3c2e56e36617c0ee037929dfaa48a10894b))
+
+
+### Features
+
+* test ([ed84547](https://github.com/dilyanatanasov177/lerna-test/commit/ed84547d4a4fe280a671aeb93efcff44b184097b))
+
+
+### Reverts
+
+* test ([7a1d55a](https://github.com/dilyanatanasov177/lerna-test/commit/7a1d55a006e71ee801dc806970128f680ce3efb1))
+* test ([8995a90](https://github.com/dilyanatanasov177/lerna-test/commit/8995a90438f85db236ce29a88a6d721e296aed19))
+
+
+
+
+
 # [1.8.0](https://github.com/dilyanatanasov177/lerna-test/compare/infrastructure@1.6.0...infrastructure@1.8.0) (2021-01-14)
 
 

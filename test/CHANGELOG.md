@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.5](https://github.com/dilyanatanasov177/lerna-test/compare/test@1.1.2...test@1.1.5) (2021-01-14)
+
+
+### Reverts
+
+* dasdsa ([0048f8a](https://github.com/dilyanatanasov177/lerna-test/commit/0048f8a7f4327a211f140e6f3db2d3b9df558a0d))
+* test ([7a1d55a](https://github.com/dilyanatanasov177/lerna-test/commit/7a1d55a006e71ee801dc806970128f680ce3efb1))
+
+
+
+
+
 ## [1.1.4](https://github.com/dilyanatanasov177/lerna-test/compare/test@1.1.2...test@1.1.4) (2021-01-14)
 
 **Note:** Version bump only for package test

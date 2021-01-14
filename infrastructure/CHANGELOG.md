@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.10.0](https://github.com/dilyanatanasov177/lerna-test/compare/infrastructure@1.9.2...infrastructure@1.10.0) (2021-01-14)
+
+
+### Features
+
+* test ([766f17d](https://github.com/dilyanatanasov177/lerna-test/commit/766f17dbdc16cc1e96b5f611038441673b3dcba3))
+
+
+
+
+
 ## [1.9.2](https://github.com/dilyanatanasov177/lerna-test/compare/infrastructure@1.9.0...infrastructure@1.9.2) (2021-01-14)
 
 **Note:** Version bump only for package infrastructure

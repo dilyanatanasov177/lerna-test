@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.6.2](https://github.com/dilyanatanasov177/lerna-test/compare/stack@1.6.0...stack@1.6.2) (2021-01-14)
+
+
+### Bug Fixes
+
+* **dsa:** dsadsa ([410ac3c](https://github.com/dilyanatanasov177/lerna-test/commit/410ac3c2e56e36617c0ee037929dfaa48a10894b))
+
+
+### Reverts
+
+* test ([8995a90](https://github.com/dilyanatanasov177/lerna-test/commit/8995a90438f85db236ce29a88a6d721e296aed19))
+
+
+
+
+
 ## [1.6.1](https://github.com/dilyanatanasov177/lerna-test/compare/stack@1.6.0...stack@1.6.1) (2021-01-14)
 
 

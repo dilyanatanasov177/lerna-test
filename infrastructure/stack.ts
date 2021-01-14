@@ -4,4 +4,5 @@ class Test {
     private das = ""
     private das2 = ""
     private das3 = ""
+    private das4 = ""
 }

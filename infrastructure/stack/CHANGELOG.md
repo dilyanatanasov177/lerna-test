@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.5.0](https://github.com/dilyanatanasov177/lerna-test/compare/stack@1.4.0...stack@1.5.0) (2021-01-14)
+
+
+### Features
+
+* **test:** dsada ([3bfda2c](https://github.com/dilyanatanasov177/lerna-test/commit/3bfda2c7dea5854514e2720a2309d0073b5a3df8))
+
+
+
+
+
 # [1.4.0](https://github.com/dilyanatanasov177/lerna-test/compare/stack@1.3.0...stack@1.4.0) (2021-01-13)
 
 

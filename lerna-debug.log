@@ -1,0 +1,90 @@
+0 silly argv {
+0 silly argv   _: [ 'version' ],
+0 silly argv   amend: true,
+0 silly argv   yes: true,
+0 silly argv   y: true,
+0 silly argv   lernaVersion: '3.22.1',
+0 silly argv   '$0': '/home/ubuntu/Scavasoft/lerna/node_modules/.bin/lerna'
+0 silly argv }
+1 notice cli v3.22.1
+2 verbose rootPath /home/ubuntu/Scavasoft/lerna
+3 info versioning independent
+4 silly isAnythingCommitted
+5 verbose isAnythingCommitted 1
+6 silly currentBranch
+7 verbose currentBranch main
+8 silly hasTags
+9 verbose hasTags true
+10 silly git-describe.sync "infrastructure@1.9.0-10-g1af73a5" => {"lastTagName":"infrastructure@1.9.0","lastVersion":"1.9.0","refCount":"10","sha":"1af73a5","isDirty":false}
+11 info Looking for changed packages since infrastructure@1.9.0
+12 silly checking diff infrastructure
+13 silly found diff in infrastructure/stack.ts
+14 verbose filtered diff [ 'infrastructure/stack.ts' ]
+15 silly checking diff infrastructure/stack
+16 silly no diff found in stack
+17 silly checking diff test
+18 silly found diff in test/CHANGELOG.md
+18 silly found diff in test/package.json
+18 silly found diff in test/test.ts
+19 verbose filtered diff [ 'test/CHANGELOG.md', 'test/package.json', 'test/test.ts' ]
+20 verbose updated infrastructure
+21 verbose updated test
+22 warn version Skipping working tree validation, proceed at your own risk
+23 silly independent for infrastructure at /home/ubuntu/Scavasoft/lerna/infrastructure
+24 verbose getChangelogConfig using preset "conventional-changelog-angular"
+25 silly npa Result {
+25 silly npa   type: 'tag',
+25 silly npa   registry: true,
+25 silly npa   where: undefined,
+25 silly npa   raw: 'conventional-changelog-angular',
+25 silly npa   name: 'conventional-changelog-angular',
+25 silly npa   escapedName: 'conventional-changelog-angular',
+25 silly npa   scope: undefined,
+25 silly npa   rawSpec: '',
+25 silly npa   saveSpec: null,
+25 silly npa   fetchSpec: 'latest',
+25 silly npa   gitRange: undefined,
+25 silly npa   gitCommittish: undefined,
+25 silly npa   hosted: undefined
+25 silly npa }
+26 verbose getChangelogConfig Attempting to resolve preset "conventional-changelog-angular"
+27 info getChangelogConfig Successfully resolved preset "conventional-changelog-angular"
+28 verbose independent increment 1.9.0 by patch
+29 silly independent for test at /home/ubuntu/Scavasoft/lerna/test
+30 verbose independent increment 1.1.7 by patch
+31 info auto-confirmed
+32 info execute Skipping git push
+33 info execute Skipping releases
+34 silly lifecycle No script for "preversion" in "test-for-lerna", continuing
+35 silly lifecycle No script for "preversion" in "infrastructure", continuing
+36 silly lifecycle No script for "preversion" in "test", continuing
+37 silly lifecycle No script for "version" in "test", continuing
+38 silly independent for test at /home/ubuntu/Scavasoft/lerna/test
+39 silly lifecycle No script for "version" in "infrastructure", continuing
+40 silly independent for infrastructure at /home/ubuntu/Scavasoft/lerna/infrastructure
+41 silly independent writing new entry: "## [1.1.8](https://github.com/dilyanatanasov177/lerna-test/compare/test@1.1.5...test@1.1.8) (2021-01-14)\n\n\n### Reverts\n\n* **test:** dasa ([999785a](https://github.com/dilyanatanasov177/lerna-test/commit/999785ae365db1a14a758ed7d211ffa0704e85c2))\n* **test:** dasa ([894629c](https://github.com/dilyanatanasov177/lerna-test/commit/894629c82bca7150ecba1d793218b6f5853a8f1c))\n\n\n\n"
+42 verbose independent wrote /home/ubuntu/Scavasoft/lerna/test/CHANGELOG.md
+43 silly independent writing new entry: "## [1.9.1](https://github.com/dilyanatanasov177/lerna-test/compare/infrastructure@1.9.0...infrastructure@1.9.1) (2021-01-14)\n\n**Note:** Version bump only for package infrastructure\n\n\n\n"
+44 verbose independent wrote /home/ubuntu/Scavasoft/lerna/infrastructure/CHANGELOG.md
+45 silly lifecycle No script for "version" in "test-for-lerna", continuing
+46 silly gitAdd [
+46 silly gitAdd   'test/package.json',
+46 silly gitAdd   'infrastructure/package.json',
+46 silly gitAdd   'test/CHANGELOG.md',
+46 silly gitAdd   'infrastructure/CHANGELOG.md'
+46 silly gitAdd ]
+47 silly gitCommit chore(release): release
+47 silly gitCommit
+47 silly gitCommit  - infrastructure@1.9.1
+47 silly gitCommit  - test@1.1.8
+48 verbose git [ 'commit', '--amend', '--no-edit' ]
+49 silly gitTag infrastructure@1.9.1
+50 verbose git [ 'tag', 'infrastructure@1.9.1', '-m', 'infrastructure@1.9.1' ]
+51 silly gitTag test@1.1.8
+52 verbose git [ 'tag', 'test@1.1.8', '-m', 'test@1.1.8' ]
+53 error Error: Command failed: git tag test@1.1.8 -m test@1.1.8
+53 error fatal: tag 'test@1.1.8' already exists
+53 error
+53 error     at makeError (/home/ubuntu/Scavasoft/lerna/node_modules/execa/index.js:174:9)
+53 error     at /home/ubuntu/Scavasoft/lerna/node_modules/execa/index.js:278:16
+53 error     at processTicksAndRejections (internal/process/task_queues.js:97:5)

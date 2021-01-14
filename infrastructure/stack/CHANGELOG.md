@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.6.0](https://github.com/dilyanatanasov177/lerna-test/compare/stack@1.5.0...stack@1.6.0) (2021-01-14)
+
+
+### Features
+
+* sdaas ([7e6e99d](https://github.com/dilyanatanasov177/lerna-test/commit/7e6e99d0186d611c78a7b0e97fc3bd5a4401161c))
+
+
+
+
+
 # [1.5.0](https://github.com/dilyanatanasov177/lerna-test/compare/stack@1.4.0...stack@1.5.0) (2021-01-14)
 
 

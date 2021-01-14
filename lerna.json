@@ -1,5 +1,6 @@
 {
   "packages": [
+    "test/",
     "infrastructure/",
     "infrastructure/stack"
   ],
